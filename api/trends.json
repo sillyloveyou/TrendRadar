@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T16:15:59.174659+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2025-12-03T17:15:36.900796+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 87,
+      "match_count": 92,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时46分 ~ 16时15分]"
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 17时15分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -63,11 +63,12 @@
             7,
             4,
             2,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时30分 ~ 16时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 17时15分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -85,6 +86,17 @@
           "time_info": "[07时10分 ~ 14时17分]"
         },
         {
+          "title": "特朗普签署法律以加深美台联系，外交部回应",
+          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 17时15分]"
+        },
+        {
           "title": "内塔尼亚胡请求特朗普就其赦免问题提供更多支持",
           "url": "https://flash.jin10.com/detail/20251203033616090800",
           "source": "金十数据",
@@ -94,17 +106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
-        },
-        {
-          "title": "特朗普签署法律以加深美台联系，外交部回应",
-          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
         },
         {
           "title": "金十提示：特朗普内阁会议讲话结束。",
@@ -124,7 +125,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -135,7 +136,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -229,6 +230,18 @@
           "time_info": "[05时16分 ~ 06时10分]"
         },
         {
+          "title": "特朗普威胁：将实施陆地打击",
+          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 17时15分]"
+        },
+        {
           "title": "美国总统特朗普：我的体检全部得了A。",
           "url": "https://flash.jin10.com/detail/20251203011020121800",
           "source": "金十数据",
@@ -280,6 +293,18 @@
           "time_info": "[07时10分 ~ 08时46分]"
         },
         {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 17时15分]"
+        },
+        {
           "title": "美国总统特朗普：与巴西总统卢拉的谈话很棒。 我喜欢卢拉。",
           "url": "https://wallstreetcn.com/livenews/3013899",
           "source": "华尔街见闻-快讯",
@@ -316,6 +341,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时30分 ~ 12时19分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 17时15分]"
         },
         {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
@@ -510,28 +546,6 @@
           "time_info": "[11时45分 ~ 12时19分]"
         },
         {
-          "title": "特朗普威胁：将实施陆地打击",
-          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
-          "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
           "title": "美国总统特朗普：（被问及维特科夫与普京的会晤）会后我会了解会谈的最新进展。",
           "url": "https://flash.jin10.com/detail/20251203030337791800",
           "source": "金十数据",
@@ -552,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "外交部回应特朗普签法律加深美台联系",
+          "url": "https://www.toutiao.com/trending/7579439474674483219/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "美国总统特朗普：将开始在地面上开展缉毒行动，地面打击要容易得多，很快就会开始。",
@@ -604,9 +629,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
@@ -651,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "巴西总统府：巴西总统卢拉周二与美国总统特朗普通了电话。",
@@ -884,17 +931,6 @@
           "time_info": "05时16分"
         },
         {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
           "title": "俄罗斯总统普京：欧洲人正阻挠美国政府和美国总统特朗普通过谈判实现和平。欧洲人没有和平议程，他们站在战争一边。",
           "url": "https://flash.jin10.com/detail/20251202230616766800",
           "source": "金十数据",
@@ -945,9 +981,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://www.douyin.com/hot/2324828",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "与特朗普家族有关联的比特币矿商American Bitcoin开盘下跌30%。",
@@ -981,6 +1028,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普开会被拍到多次闭眼",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "内阁会议时长超2小时 特朗普睡眼惺忪",
@@ -1030,8 +1088,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时46分 ~ 16时15分]"
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 17时15分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -1225,8 +1283,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时46分 ~ 16时15分]"
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 17时15分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1254,8 +1312,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 16时15分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 17时15分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -1518,7 +1576,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -1556,11 +1614,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 16时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 17时15分]"
         }
       ]
     },
