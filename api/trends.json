@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:12:30.591468+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2025-12-03T14:17:19.587953+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时30分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[10时30分 ~ 14时17分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时46分 ~ 13时12分]"
+          "appearance_count": 6,
+          "time_info": "[08时46分 ~ 14时17分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -62,11 +62,12 @@
           "ranks": [
             7,
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时30分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[10时30分 ~ 14时17分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -80,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时10分 ~ 13时12分]"
+          "appearance_count": 7,
+          "time_info": "[07时10分 ~ 14时17分]"
         },
         {
           "title": "内塔尼亚胡请求特朗普就其赦免问题提供更多支持",
@@ -515,7 +516,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -942,8 +943,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时46分 ~ 13时12分]"
+          "appearance_count": 6,
+          "time_info": "[08时46分 ~ 14时17分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -955,8 +956,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时10分 ~ 13时12分]"
+          "appearance_count": 7,
+          "time_info": "[07时10分 ~ 14时17分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -1125,8 +1126,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时46分 ~ 13时12分]"
+          "appearance_count": 6,
+          "time_info": "[08时46分 ~ 14时17分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1163,8 +1164,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 14时17分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
