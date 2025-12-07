@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:13:23.159871+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2025-12-07T17:10:18.400370+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
             1,
             6,
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 17时10分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -92,11 +93,12 @@
             4,
             9,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 17时10分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -231,8 +233,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 16时13分]"
+          "appearance_count": 4,
+          "time_info": "[14时14分 ~ 17时10分]"
         }
       ]
     },
