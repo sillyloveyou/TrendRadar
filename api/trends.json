@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T11:53:15.639103+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2025-12-07T12:25:16.921631+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 11时53分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 12时25分]"
         }
       ]
     },
@@ -132,11 +133,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时11分 ~ 11时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时11分 ~ 12时25分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -167,8 +169,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时11分 ~ 11时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时11分 ~ 12时25分]"
         }
       ]
     },
