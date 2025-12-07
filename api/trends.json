@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T10:52:04.280487+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-12-07T11:53:15.639103+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 11时53分]"
         }
       ]
     },
@@ -135,8 +135,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时11分 ~ 10时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时11分 ~ 11时53分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -163,11 +163,12 @@
             6,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时11分 ~ 10时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时11分 ~ 11时53分]"
         }
       ]
     },
