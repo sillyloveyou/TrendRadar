@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T07:10:00.944046+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2025-12-07T08:53:43.194700+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 07时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时11分 ~ 08时53分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 07时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时11分 ~ 08时53分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -48,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 07时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时11分 ~ 08时53分]"
         }
       ]
     },
@@ -70,8 +71,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 07时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时11分 ~ 08时53分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -118,11 +119,12 @@
           "url": "https://www.cls.cn/detail/2221625",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 07时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时11分 ~ 08时53分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -151,8 +153,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 07时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时11分 ~ 08时53分]"
         }
       ]
     },
