@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T13:10:24.102780+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2025-12-07T14:14:54.695561+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
@@ -62,33 +62,36 @@
           "ranks": [
             27,
             23,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时51分 ~ 13时10分]"
+          "appearance_count": 7,
+          "time_info": "[10时51分 ~ 14时14分]"
         },
         {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
           "url": "https://flash.jin10.com/detail/20251207124750348800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 14时14分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
           "url": "https://flash.jin10.com/detail/20251207122838853800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 14时14分]"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
@@ -97,7 +100,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         }
@@ -171,8 +174,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时11分 ~ 13时10分]"
+          "appearance_count": 22,
+          "time_info": "[00时11分 ~ 14时14分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -184,6 +187,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时09分 ~ 07时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 05时09分]"
+        },
+        {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         }
       ]
     },
@@ -203,26 +235,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时11分 ~ 13时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 05时09分]"
+          "appearance_count": 22,
+          "time_info": "[00时11分 ~ 14时14分]"
         }
       ]
     }
