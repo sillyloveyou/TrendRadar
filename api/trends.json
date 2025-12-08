@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T14:19:13.343960+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-12-08T15:16:41.140664+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时10分 ~ 14时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时10分 ~ 15时16分]"
         },
         {
           "title": "以总统拒绝特朗普“求情”",
@@ -68,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时47分 ~ 14时19分]"
+          "appearance_count": 9,
+          "time_info": "[08时47分 ~ 15时16分]"
         },
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -79,8 +79,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 15时16分]"
+        },
+        {
+          "title": "网飞与华纳达成收购协议，特朗普警告",
+          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 15时16分]"
         },
         {
           "title": "特朗普称对泽连斯基尚未阅读和平协议草案感到有些失望",
@@ -94,15 +105,16 @@
           "time_info": "08时48分"
         },
         {
-          "title": "网飞与华纳达成收购协议，特朗普警告",
-          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
-          "source": "凤凰网",
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
           "ranks": [
-            11
+            16,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时44分 ~ 14时19分]"
+          "time_info": "[11时50分 ~ 15时16分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯对（和平）协议没意见，但不确定泽连斯基是否同意。",
@@ -125,18 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
-        },
-        {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时50分 ~ 14时19分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -336,11 +336,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 15时16分]"
         },
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
@@ -368,36 +369,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧莱雅将所持高德美股份增持至20%。",
-          "url": "https://wallstreetcn.com/livenews/3016758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "Yardeni建议低配美股科技七巨头 预测15年来的科技主线将生变",
-          "url": "https://wallstreetcn.com/livenews/3016623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美军通过“逆向工程”仿造出“伊朗自杀式无人机”",
@@ -408,8 +381,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 15时16分]"
+        },
+        {
+          "title": "伊朗外长：核设施虽遭美以摧毁 但伊朗和平核计划决心不变",
+          "url": "https://flash.jin10.com/detail/20251208143154274800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "伊朗：美国是以色列犯罪行为的帮凶",
@@ -421,6 +405,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧莱雅将所持高德美股份增持至20%。",
+          "url": "https://wallstreetcn.com/livenews/3016758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 15时16分]"
+        },
+        {
+          "title": "Yardeni建议低配美股科技七巨头 预测15年来的科技主线将生变",
+          "url": "https://wallstreetcn.com/livenews/3016623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     },
