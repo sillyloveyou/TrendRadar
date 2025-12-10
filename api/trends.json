@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-10T14:18:14.897721+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2025-12-10T15:15:22.703556+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
+        {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时48分 ~ 15时15分]"
+        },
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
           "url": "https://news.ifeng.com/c/8owt7VBi7fc",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时14分 ~ 08时49分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时48分 ~ 14时18分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 14时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 15时15分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -122,8 +122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 15时15分]"
         },
         {
           "title": "采访中特朗普突然发飙怒斥记者",
@@ -228,6 +228,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 15时15分]"
         },
         {
           "title": "据英国金融时报，美国总统特朗普在回应和平计划方面向乌克兰总统泽连斯基提供了“几天时间”。",
@@ -351,6 +363,18 @@
           "time_info": "[13时13分 ~ 14时18分]"
         },
         {
+          "title": "特朗普抱怨为什么收垃圾国家移民",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E4%B8%BA%E4%BB%80%E4%B9%88%E6%94%B6%E5%9E%83%E5%9C%BE%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 15时15分]"
+        },
+        {
           "title": "据福克斯新闻：以为知情人士透露，美国总统特朗普尚未与司法部反垄断部门会面，就派拉蒙天舞、奈飞(NFLX.O)和华纳兄弟探索公司(WBD.O)之间的交易问题表达其意见。",
           "url": "https://flash.jin10.com/detail/20251210020446643800",
           "source": "金十数据",
@@ -375,33 +399,11 @@
           "time_info": "[06时22分 ~ 07时10分]"
         },
         {
-          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
-        },
-        {
           "title": "特朗普厕所门口受访被人推门撞到",
           "url": "https://www.toutiao.com/trending/7582097221663936046/",
           "source": "今日头条",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
-        },
-        {
-          "title": "特朗普抱怨为什么收垃圾国家移民",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E4%B8%BA%E4%BB%80%E4%B9%88%E6%94%B6%E5%9E%83%E5%9C%BE%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -661,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "特朗普为何强推俄乌和平",
+          "url": "https://www.toutiao.com/trending/7582054503461965321/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     },
@@ -679,8 +692,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时10分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[07时10分 ~ 15时15分]"
         },
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -924,11 +937,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时48分 ~ 14时18分]"
+          "appearance_count": 9,
+          "time_info": "[08时48分 ~ 15时15分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -990,8 +1004,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时48分 ~ 14时18分]"
+          "appearance_count": 9,
+          "time_info": "[08时48分 ~ 15时15分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -1015,6 +1029,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金午盘价为951.34元/克，较国际金价(954.44元/克)，低3.1元/克",
+          "url": "https://flash.jin10.com/detail/20251210150354627800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时24分]"
         }
       ]
     },
@@ -1065,24 +1108,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 06时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
-          "url": "https://flash.jin10.com/detail/20251210111107526800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时24分]"
         }
       ]
     }
