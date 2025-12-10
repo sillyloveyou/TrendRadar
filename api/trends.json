@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T17:15:50.251693+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2025-12-10T18:13:08.041031+08:00",
+  "total_titles_processed": 1702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 17时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 18时13分]"
         },
         {
           "title": "特朗普：泰柬又打起来了，我得打个电话",
@@ -112,6 +112,19 @@
           "time_info": "[02时29分 ~ 08时49分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 18时13分]"
+        },
+        {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
           "url": "https://www.zhihu.com/question/1981659657740234762",
           "source": "知乎",
@@ -125,6 +138,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时20分 ~ 07时10分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 18时13分]"
         },
         {
           "title": "采访中特朗普突然发飙怒斥记者",
@@ -174,30 +199,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时48分 ~ 10时46分]"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 17时15分]"
-        },
-        {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 17时15分]"
         },
         {
           "title": "特朗普：北约叫我爸爸",
@@ -400,6 +401,17 @@
           "time_info": "[14时17分 ~ 15时15分]"
         },
         {
+          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
+          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
           "title": "据福克斯新闻：以为知情人士透露，美国总统特朗普尚未与司法部反垄断部门会面，就派拉蒙天舞、奈飞(NFLX.O)和华纳兄弟探索公司(WBD.O)之间的交易问题表达其意见。",
           "url": "https://flash.jin10.com/detail/20251210020446643800",
           "source": "金十数据",
@@ -422,6 +434,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时10分]"
+        },
+        {
+          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
+          "url": "https://wallstreetcn.com/articles/3761053",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "特朗普厕所门口受访被人推门撞到",
@@ -1040,8 +1063,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时48分 ~ 17时15分]"
+          "appearance_count": 14,
+          "time_info": "[08时48分 ~ 18时13分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1101,7 +1124,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
