@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T11:52:36.688010+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2025-12-11T12:27:09.326737+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,17 @@
           "time_info": "[00时15分 ~ 08时49分]"
         },
         {
+          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
+          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 12时27分]"
+        },
+        {
           "title": "特朗普发飙怒斥记者",
           "url": "https://www.douyin.com/hot/2332016",
           "source": "抖音",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 00时16分]"
-        },
-        {
-          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
-          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -99,6 +99,19 @@
           "time_info": "04时12分"
         },
         {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 12时27分]"
+        },
+        {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
           "url": "https://wallstreetcn.com/livenews/3018662",
           "source": "华尔街见闻-快讯",
@@ -121,19 +134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时09分]"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 11时52分]"
         },
         {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
@@ -510,18 +510,6 @@
       "match_count": 19,
       "titles": [
         {
-          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2225788",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 07时09分]"
-        },
-        {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
           "url": "https://wallstreetcn.com/articles/3761091",
           "source": "华尔街见闻",
@@ -529,8 +517,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 11时52分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 12时27分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -542,8 +530,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时09分 ~ 11时52分]"
+          "appearance_count": 6,
+          "time_info": "[07时09分 ~ 12时27分]"
+        },
+        {
+          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2225788",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时09分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
@@ -594,6 +594,18 @@
           "time_info": "[06时11分 ~ 07时09分]"
         },
         {
+          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3018895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时27分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 银行股走强",
           "url": "https://flash.jin10.com/detail/20251211050116386800",
           "source": "金十数据",
@@ -606,6 +618,18 @@
           "time_info": "[05时21分 ~ 06时11分]"
         },
         {
+          "title": "纳斯达克100指数期货跌1%，此前甲骨文美股盘后发布财报，股价大跌。",
+          "url": "https://wallstreetcn.com/livenews/3018880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时27分]"
+        },
+        {
           "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
           "url": "https://flash.jin10.com/detail/20251211030239633800",
           "source": "金十数据",
@@ -615,17 +639,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3018895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股盘中）",
@@ -683,17 +696,6 @@
           "time_info": "05时21分"
         },
         {
-          "title": "纳斯达克100指数期货跌1%，此前甲骨文美股盘后发布财报，股价大跌。",
-          "url": "https://wallstreetcn.com/livenews/3018880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
           "title": "新思科技Synopsys第四财季营收22.6亿美元，同比增长38%。 预计2026财年营收95.6亿-96.6亿美元，分析师预期96.3亿美元。 预计第一财季营收23.7亿-24.2亿美元，分析师预期23.6亿美元。 新思科技美股盘后涨6%。",
           "url": "https://wallstreetcn.com/livenews/3018670",
           "source": "华尔街见闻-快讯",
@@ -722,7 +724,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         }
@@ -867,11 +869,12 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 11时52分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 12时27分]"
         },
         {
           "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
@@ -980,11 +983,12 @@
           "url": "https://wallstreetcn.com/livenews/3018897",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时27分]"
         }
       ]
     },
