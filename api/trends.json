@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T20:17:58.949017+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2025-12-14T21:21:25.454657+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
@@ -201,6 +201,17 @@
           "time_info": "[05时08分 ~ 08时54分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时17分 ~ 21时21分]"
+        },
+        {
           "title": "特朗普：希望利率在一年内降至1%或更低",
           "url": "https://wallstreetcn.com/livenews/3020317",
           "source": "华尔街见闻-快讯",
@@ -210,17 +221,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
         },
         {
           "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
@@ -543,6 +543,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -557,8 +574,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时12分 ~ 20时17分]"
+          "appearance_count": 12,
+          "time_info": "[13时12分 ~ 21时21分]"
         }
       ]
     }
