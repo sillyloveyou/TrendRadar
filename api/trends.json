@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:15:23.499027+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2025-12-17T16:16:39.871497+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -108,11 +108,12 @@
             1,
             2,
             10,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 15时15分]"
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 16时16分]"
         },
         {
           "title": "美国白宫：美国总统特朗普签署了一项公告，进一步限制外国国民入境。对布基纳法索、马里、尼日尔、南苏丹和叙利亚等五个新增国家，以及持巴勒斯坦权力机构签发旅行证件的个人，实施全面入境限制和禁令。对老挝和塞拉利昂这两个此前仅受部分限制的国家，升级为实施全面入境限制和禁令。",
@@ -196,6 +197,18 @@
           "time_info": "[04时13分 ~ 05时11分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 16时16分]"
+        },
+        {
           "title": "美国州政府官员们终止关于马斯克在特朗普政府担职的案件",
           "url": "https://wallstreetcn.com/livenews/3021819",
           "source": "华尔街见闻-快讯",
@@ -207,17 +220,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 02时17分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 15时15分]"
         },
         {
           "title": "评论员：特朗普越来越像拜登",
@@ -300,6 +302,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时10分]"
+        },
+        {
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 16时16分]"
         },
         {
           "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
@@ -515,15 +529,15 @@
           "time_info": "05时11分"
         },
         {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
+          "title": "特朗普签署公告 进一步限制外国公民入境美国",
+          "url": "https://www.cls.cn/detail/2231615",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "16时16分"
         },
         {
           "title": "委内瑞拉副总统：特朗普正以威胁手段图谋掠夺本国资源。",
@@ -675,7 +689,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
