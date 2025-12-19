@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T13:14:00.908437+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2025-12-19T14:17:09.504688+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 14时17分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -40,8 +40,35 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时48分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 14时17分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -55,8 +82,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时16分 ~ 13时14分]"
+          "appearance_count": 17,
+          "time_info": "[02时16分 ~ 14时17分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -70,31 +97,15 @@
           "time_info": "[00时15分 ~ 07时11分]"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            5,
-            6,
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[08时48分 ~ 13时14分]"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 13时14分]"
+          "time_info": "[10时48分 ~ 14时17分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时48分 ~ 08时49分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 13时14分]"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -186,6 +186,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时16分 ~ 03时11分]"
+        },
+        {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 14时17分]"
         },
         {
           "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
@@ -258,17 +271,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时12分]"
-        },
-        {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
           "title": "美国总统特朗普：希望国会山不至于泄露关于打击委内瑞拉的情报。",
@@ -440,7 +442,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -509,6 +511,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
@@ -814,17 +827,6 @@
       "match_count": 20,
       "titles": [
         {
-          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
-          "url": "https://wallstreetcn.com/articles/3761550",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
           "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
           "url": "https://www.cls.cn/detail/2234084",
           "source": "财联社热门",
@@ -834,8 +836,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时11分 ~ 14时16分]"
+        },
+        {
+          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[07时11分 ~ 13时14分]"
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -859,8 +872,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 14时17分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股收盘）",
@@ -1080,6 +1093,19 @@
           "time_info": "06时10分"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 14时17分]"
+        },
+        {
           "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
           "url": "https://wallstreetcn.com/livenews/3023302",
           "source": "华尔街见闻-快讯",
@@ -1103,19 +1129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时12分]"
-        },
-        {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时14分]"
         },
         {
           "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
@@ -1239,6 +1252,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "日本美债持有规模升至1.2万亿美元",
+          "url": "https://flash.jin10.com/detail/20251219050608165800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时11分 ~ 07时11分]"
+        },
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时10分 ~ 08时49分]"
+        },
+        {
+          "title": "中国10月美债持仓跌破7000亿美元大关",
+          "url": "https://www.toutiao.com/trending/7585293619852673033/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "10年期美债收益率跌约4个基点，在美国CPI通胀数据出炉时刷新日低，逼近4.1%",
+          "url": "https://wallstreetcn.com/livenews/3023329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "英国10月增持美债 加拿大持仓月度波幅再超500亿",
+          "url": "https://flash.jin10.com/detail/20251219060642094800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "【日本10月所持美国国债从1.189万亿美元增加至1.20万亿美元】中国10月所持美债从7005亿美元降低至6887亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "日本增持美债至2022年7月以来新高，加拿大锐减约570亿美元",
+          "url": "https://wallstreetcn.com/livenews/3023349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         }
       ]
     },
@@ -1391,81 +1490,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "日本美债持有规模升至1.2万亿美元",
-          "url": "https://flash.jin10.com/detail/20251219050608165800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 07时11分]"
-        },
-        {
-          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
-          "url": "https://wallstreetcn.com/articles/3761610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时10分 ~ 08时49分]"
-        },
-        {
-          "title": "10年期美债收益率跌约4个基点，在美国CPI通胀数据出炉时刷新日低，逼近4.1%",
-          "url": "https://wallstreetcn.com/livenews/3023329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "英国10月增持美债 加拿大持仓月度波幅再超500亿",
-          "url": "https://flash.jin10.com/detail/20251219060642094800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "【日本10月所持美国国债从1.189万亿美元增加至1.20万亿美元】中国10月所持美债从7005亿美元降低至6887亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3023349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "日本增持美债至2022年7月以来新高，加拿大锐减约570亿美元",
-          "url": "https://wallstreetcn.com/livenews/3023349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
         }
       ]
     },
