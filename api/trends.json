@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T12:01:32.171040+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2025-12-22T12:40:58.233491+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时11分 ~ 12时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时11分 ~ 12时40分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -53,11 +53,12 @@
             19,
             17,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时08分 ~ 12时01分]"
+          "appearance_count": 12,
+          "time_info": "[03时08分 ~ 12时40分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -66,11 +67,12 @@
           "ranks": [
             19,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时14分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[02时14分 ~ 12时40分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -171,9 +173,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时40分]"
         },
         {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
@@ -182,9 +184,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时40分]"
         },
         {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
@@ -204,7 +206,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -218,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
@@ -286,8 +299,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时40分]"
         },
         {
           "title": "美军为何批量山寨伊朗“小摩托”",
@@ -337,7 +350,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -368,8 +381,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时11分 ~ 12时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时11分 ~ 12时40分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -379,8 +392,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时40分]"
         }
       ]
     },
@@ -440,9 +453,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时40分]"
         }
       ]
     },
