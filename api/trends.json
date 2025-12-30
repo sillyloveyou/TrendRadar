@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T18:12:43.853213+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2025-12-30T19:10:54.930848+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 103,
+      "match_count": 106,
       "titles": [
         {
           "title": "普京一个电话后，特朗普怒了",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时48分 ~ 18时12分]"
+          "appearance_count": 15,
+          "time_info": "[08时48分 ~ 19时10分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -56,8 +56,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时57分 ~ 18时12分]"
+          "appearance_count": 11,
+          "time_info": "[11时57分 ~ 19时10分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中国军演言论",
+          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 19时10分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -88,17 +99,6 @@
           "time_info": "[08时48分 ~ 13时16分]"
         },
         {
-          "title": "外交部回应特朗普涉中国军演言论",
-          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 18时12分]"
-        },
-        {
           "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
           "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
           "source": "凤凰网",
@@ -106,8 +106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 18时12分]"
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 19时10分]"
         },
         {
           "title": "普京称官邸遭袭 特朗普回应",
@@ -118,11 +118,26 @@
             1,
             17,
             24,
-            22
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 19时10分]"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时16分 ~ 18时12分]"
+          "time_info": "[14时17分 ~ 19时10分]"
         },
         {
           "title": "特朗普称得知普京官邸遭袭很生气",
@@ -180,20 +195,6 @@
           "time_info": "14时17分"
         },
         {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时17分 ~ 18时12分]"
-        },
-        {
           "title": "据悉特朗普及其高级顾问要求内塔尼亚胡调整约旦河西岸政策",
           "url": "https://flash.jin10.com/detail/20251230114449386800",
           "source": "金十数据",
@@ -205,6 +206,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时57分 ~ 13时16分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-30）",
+          "url": "https://flash.jin10.com/detail/20251230184012837800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -418,6 +430,18 @@
           "time_info": "[06时10分 ~ 07时10分]"
         },
         {
+          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
+          "url": "https://wallstreetcn.com/articles/3762272",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 19时10分]"
+        },
+        {
           "title": "特朗普称不担心解放军绕台军演",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
           "source": "百度热搜",
@@ -429,6 +453,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时31分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普称对中方此次军演不担忧，外交部回应",
+          "url": "https://www.cls.cn/detail/2244032",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 19时10分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 19时10分]"
         },
         {
           "title": "俄称乌无人机袭击普京官邸，扎哈罗娃：泽连斯基“打脸”特朗普",
@@ -543,18 +590,6 @@
           "time_info": "[02时17分 ~ 04时12分]"
         },
         {
-          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
-          "url": "https://wallstreetcn.com/articles/3762272",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 18时12分]"
-        },
-        {
           "title": "美国总统特朗普：我最近和委内瑞拉总统马杜罗进行了交谈。",
           "url": "https://flash.jin10.com/detail/20251230023754680800",
           "source": "金十数据",
@@ -592,18 +627,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 04时12分]"
-        },
-        {
-          "title": "特朗普称对中方此次军演不担忧，外交部回应",
-          "url": "https://www.cls.cn/detail/2244032",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 18时12分]"
         },
         {
           "title": "美国总统特朗普：我觉得，要是当初选错了总理的话，如今的以色列恐怕就不会存在了。我认为与内塔尼亚胡的关系已经达到了最佳状态。",
@@ -645,17 +668,6 @@
           "time_info": "[02时17分 ~ 04时12分]"
         },
         {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 18时12分]"
-        },
-        {
           "title": "解放军围岛军演，特朗普表态",
           "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
           "source": "凤凰网",
@@ -665,6 +677,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时49分 ~ 10时50分]"
+        },
+        {
+          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
+          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时10分]"
         },
         {
           "title": "以色列总统办公室：自数周前提交对以色列总理内塔尼亚胡的赦免请求以来，以色列总统赫尔佐格与特朗普之间尚未进行任何对话。",
@@ -965,17 +988,6 @@
           "time_info": "05时10分"
         },
         {
-          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
-          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
           "title": "俄总统助理：特朗普建议乌方不要试图争取喘息之机",
           "url": "https://flash.jin10.com/detail/20251230012450813800",
           "source": "金十数据",
@@ -1004,7 +1016,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -1015,7 +1027,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -1029,6 +1041,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "伊朗、哈马斯强硬回应特朗普威胁",
+          "url": "https://news.ifeng.com/c/8pVb0MnBjK8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "以色列总理内塔尼亚胡：与美国总统特朗普的会晤非常富有成效。",
@@ -1062,6 +1085,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
+        },
+        {
+          "title": "特朗普称美对委进行首次陆地打击",
+          "url": "https://www.douyin.com/hot/2352186",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "周一（12月29日），降息赢家指数跌0.71%，报99.67点。 “特朗普关税输家”指数跌0.57%，报112.08点。 “特朗普金融指数”跌1.33%，报174.82点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.43%，报15.64点。",
@@ -1243,7 +1277,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -1253,8 +1287,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时48分 ~ 18时12分]"
+          "appearance_count": 15,
+          "time_info": "[08时48分 ~ 19时10分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -1292,6 +1326,31 @@
           "time_info": "[00时13分 ~ 10时50分]"
         },
         {
+          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
+          "url": "https://wallstreetcn.com/articles/3762263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时15分 ~ 19时10分]"
+        },
+        {
+          "title": "美股热门中概股盘前多数走高，百度(BIDU.O)涨超5%，小鹏汽车(XPEV.N)涨3%，唯品会(VIPS.N)、网易(NTES.O)涨超2%，台积电(TSM.N)、阿里巴巴(BABA.N)涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20251230184217470800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 特斯拉跌超3%",
           "url": "https://flash.jin10.com/detail/20251230050055980800",
           "source": "金十数据",
@@ -1325,6 +1384,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "百度(BIDU.O)美股盘前涨超5%，港股今日收涨近9%。",
+          "url": "https://flash.jin10.com/detail/20251230183448415800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
           "title": "金十图示：2025年12月29日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251230013105062800",
           "source": "金十数据",
@@ -1334,20 +1404,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
-        },
-        {
-          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
-          "url": "https://wallstreetcn.com/articles/3762263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时15分 ~ 18时12分]"
         },
         {
           "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
@@ -1519,7 +1575,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
