@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:46:08.348122+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-01-29T14:32:56.772100+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
@@ -94,8 +94,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 13时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 14时32分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -105,11 +105,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 13时46分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时32分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -211,11 +212,12 @@
           "url": "https://www.cls.cn/detail/2273523",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 14时32分]"
         },
         {
           "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
@@ -223,11 +225,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 14时32分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -579,7 +582,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -657,6 +660,17 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
+          "title": "伊朗接收俄罗斯装备",
+          "url": "https://www.toutiao.com/trending/7600325965138886662/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
           "title": "伊朗外交部长阿拉奇：德黑兰始终欢迎一项公平的核协议，该协议应确保伊朗的权利并保证不发展核武器。",
           "url": "https://flash.jin10.com/detail/20260129015303460800",
           "source": "金十数据",
@@ -710,22 +724,24 @@
           "source": "今日头条",
           "ranks": [
             18,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 14时32分]"
         },
         {
           "title": "关键时刻 伊朗接收俄制武装直升机",
           "url": "https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB+%E4%BC%8A%E6%9C%97%E6%8E%A5%E6%94%B6%E4%BF%84%E5%88%B6%E6%AD%A6%E8%A3%85%E7%9B%B4%E5%8D%87%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 14时32分]"
         },
         {
           "title": "中国代表：支持伊朗国家稳定",
@@ -827,6 +843,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "以色列总理称若遭伊朗袭击必将回击",
+          "url": "https://www.toutiao.com/trending/7600028353815674922/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
           "title": "伊朗最高领袖顾问：美若动武 伊朗将打击“特拉维夫的心脏”",
           "url": "https://wallstreetcn.com/livenews/3045923",
           "source": "华尔街见闻-快讯",
@@ -888,8 +915,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 13时46分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时32分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -1073,8 +1100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 13时46分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时32分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -1112,11 +1139,12 @@
           "ranks": [
             26,
             21,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 13时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 14时32分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1150,11 +1178,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 13时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 14时32分]"
         },
         {
           "title": "金价",
@@ -1238,7 +1267,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI融资前估值或达7300亿美元，吸引三大科技巨头联手投资",
@@ -1316,6 +1345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260129134256119800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     },
@@ -1369,11 +1409,12 @@
           "ranks": [
             2,
             5,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 13时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 14时32分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
