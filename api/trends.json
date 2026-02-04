@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T21:56:03.629043+08:00",
-  "total_titles_processed": 1998,
+  "generated_at": "2026-02-04T22:35:34.015472+08:00",
+  "total_titles_processed": 2080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -98,8 +98,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -109,8 +109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
@@ -123,6 +123,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时29分 ~ 15时37分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7603003215299149878/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -328,6 +350,18 @@
           "time_info": "[03时39分 ~ 04时23分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3049918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时35分]"
+        },
+        {
           "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
           "url": "https://wallstreetcn.com/livenews/3049283",
           "source": "华尔街见闻-快讯",
@@ -439,6 +473,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "记者问爱泼斯坦案被特朗普怒怼",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E8%80%85%E9%97%AE%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%80%BC",
           "source": "bilibili 热搜",
@@ -514,17 +559,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3049918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
         },
         {
           "title": "哥伦比亚总统佩特罗：已请美国总统特朗普斡旋与厄瓜多尔总统诺沃亚在贸易和毒品问题上的争端。",
@@ -838,8 +872,24 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 22时35分]"
+        },
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
           "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
@@ -879,23 +929,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时04分 ~ 21时56分]"
-        },
-        {
-          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 21时56分]"
+          "appearance_count": 12,
+          "time_info": "[13时04分 ~ 22时35分]"
         },
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -906,8 +941,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 21时56分]"
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 22时35分]"
         },
         {
           "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
@@ -919,8 +954,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时29分 ~ 21时56分]"
+          "appearance_count": 9,
+          "time_info": "[11时29分 ~ 22时35分]"
         },
         {
           "title": "【报道称伊朗炮艇逼近悬挂美国旗油轮】据美国媒体2月3日援引英国海上安保公司消息报道称，悬挂美国国旗的“Stena Imperative”号油轮在霍尔木兹海峡“一度遭到6艘伊朗炮艇逼近”。之后该油轮在一艘美国军舰护送下继续航行。报道称，这些炮艇通过无线电呼叫油轮，命令船长“关闭引擎并准备被登船”，但油轮加速并保持航向。预计这艘油轮将于2月5日抵达巴林的锡特拉港。据伊朗法尔斯通讯社报道，有船只“因未经许可进入伊朗领海”而被拦截。(CCTV国际时讯)",
@@ -1017,6 +1052,18 @@
           "time_info": "[11时29分 ~ 11时30分]"
         },
         {
+          "title": "伊朗与美国的谈判将于6日在阿曼举行",
+          "url": "https://wallstreetcn.com/livenews/3049923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时35分]"
+        },
+        {
           "title": "伊朗古列斯坦王宫宣布暂停对外开放",
           "url": "https://wallstreetcn.com/livenews/3049837",
           "source": "华尔街见闻-快讯",
@@ -1105,17 +1152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
-        },
-        {
-          "title": "伊朗与美国的谈判将于6日在阿曼举行",
-          "url": "https://wallstreetcn.com/livenews/3049923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
         },
         {
           "title": "美官员：美军击落一架逼近美国航母的伊朗无人机",
@@ -1250,6 +1286,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "美军：击落一架“挑衅性”接近美军航母的伊朗无人机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32527648",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "消息人士：伊朗希望改变与美国进行核谈判的地点和形式",
           "url": "https://flash.jin10.com/detail/20260204010708648800",
           "source": "金十数据",
@@ -1270,6 +1317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗与美国的会谈仅限于核问题和制裁缓解。",
+          "url": "https://flash.jin10.com/detail/20260204213609907800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "据AXIOS网站：伊朗希望改变与美国进行核谈判的地点和形式。",
@@ -1404,6 +1462,17 @@
           "time_info": "02时40分"
         },
         {
+          "title": "据伊朗学生通讯社：美国总统特使威特科夫与伊朗外交部长阿拉奇将参加阿曼会谈。",
+          "url": "https://flash.jin10.com/detail/20260204212946117800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "伊朗：一艘船非法进入伊朗领海",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%B8%80%E8%89%98%E8%88%B9%E9%9D%9E%E6%B3%95%E8%BF%9B%E5%85%A5%E4%BC%8A%E6%9C%97%E9%A2%86%E6%B5%B7",
           "source": "百度热搜",
@@ -1413,6 +1482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "据伊朗学生通讯社：（伊朗）与美国的核谈判将于周五在阿曼举行，谈判形式与前几轮相似。",
+          "url": "https://flash.jin10.com/detail/20260204212749103800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
@@ -1429,8 +1509,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时18分 ~ 21时56分]"
+          "appearance_count": 16,
+          "time_info": "[07时18分 ~ 22时35分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1441,8 +1521,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时59分 ~ 21时56分]"
+          "appearance_count": 15,
+          "time_info": "[08时59分 ~ 22时35分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -1454,8 +1534,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时04分 ~ 21时56分]"
+          "appearance_count": 12,
+          "time_info": "[13时04分 ~ 22时35分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -1501,8 +1581,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时04分 ~ 21时56分]"
+          "appearance_count": 12,
+          "time_info": "[13时04分 ~ 22时35分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1602,6 +1682,18 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时35分]"
+        },
+        {
           "title": "美股爆发AI恐慌性抛售",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
           "source": "百度热搜",
@@ -1635,17 +1727,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时04分 ~ 13时05分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -1762,7 +1843,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
@@ -1788,6 +1869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "亚马逊讨论接入OpenAI技术的特殊渠道。 亚马逊可能会在自家Alexa采用定制的OpenAI模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3049936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
@@ -2038,7 +2130,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -2070,6 +2162,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 05时23分]"
+        },
+        {
+          "title": "世界黄金协会：黄金价格波动不小，与股票的表现存在不对称性",
+          "url": "https://flash.jin10.com/detail/20260204221245663800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "金价创2009年以来最大单日涨幅",
@@ -2171,7 +2274,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -2182,7 +2285,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         }
@@ -2298,7 +2401,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         }
