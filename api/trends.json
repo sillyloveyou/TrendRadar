@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-18T07:50:35.043454+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-02-18T09:05:23.142531+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
           "url": "https://news.ifeng.com/c/8qpTdmSckn9",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时46分 ~ 07时50分]"
+          "appearance_count": 10,
+          "time_info": "[01时46分 ~ 09时05分]"
         },
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时40分 ~ 07时50分]"
+          "appearance_count": 9,
+          "time_info": "[02时40分 ~ 09时05分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -152,6 +153,18 @@
           "time_info": "[06时19分 ~ 07时50分]"
         },
         {
+          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
+          "url": "https://wallstreetcn.com/livenews/3056166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 09时05分]"
+        },
+        {
           "title": "美国总统特朗普：由于“大而美法案”，今年的退税额远超以往。在某些情况下，估计有超过20%的税款将退还给纳税人。",
           "url": "https://flash.jin10.com/detail/20260218021023992800",
           "source": "金十数据",
@@ -162,6 +175,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 03时40分]"
+        },
+        {
+          "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3056161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 09时05分]"
         },
         {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
@@ -188,6 +213,17 @@
           "time_info": "[03时40分 ~ 04时24分]"
         },
         {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
           "title": "美国副总统万斯：特朗普在伊朗问题上有很多选择。",
           "url": "https://flash.jin10.com/detail/20260218043655588800",
           "source": "金十数据",
@@ -199,24 +235,13 @@
           "time_info": "05时24分"
         },
         {
-          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
-          "url": "https://wallstreetcn.com/livenews/3056166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
           "url": "https://flash.jin10.com/detail/20260218063655343800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -254,17 +279,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3056161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
           "title": "美国总统特朗普：宣布关于得州、俄亥俄州、以及佐治亚州的项目。 得州项目包括石油和天然其的战略领域。 佐治亚州项目与关键矿物有关。",
           "url": "https://wallstreetcn.com/livenews/3056114",
           "source": "华尔街见闻-快讯",
@@ -293,7 +307,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -356,7 +370,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -366,8 +380,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 09时05分]"
+        },
+        {
+          "title": "伊朗外长披露与美方谈判结果",
+          "url": "https://news.ifeng.com/c/8qpUHBlBe7s",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时43分 ~ 07时50分]"
+          "time_info": "[01时46分 ~ 09时05分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -382,15 +408,15 @@
           "time_info": "[00时43分 ~ 07时50分]"
         },
         {
-          "title": "伊朗外长披露与美方谈判结果",
-          "url": "https://news.ifeng.com/c/8qpUHBlBe7s",
+          "title": "万斯：美方向伊朗划定“红线”",
+          "url": "https://news.ifeng.com/c/8qpzcl8sWDw",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时46分 ~ 07时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -486,6 +512,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
           "title": "阿曼外长：伊朗与美国日内瓦会谈圆满结束，取得“良好进展”",
           "url": "https://wallstreetcn.com/livenews/3056038",
           "source": "华尔街见闻-快讯",
@@ -544,7 +581,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -564,11 +601,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 07时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 09时05分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -577,20 +615,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
-          "url": "https://wallstreetcn.com/livenews/3056169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 09时05分]"
         },
         {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
@@ -617,6 +644,18 @@
           "time_info": "[06时19分 ~ 07时50分]"
         },
         {
+          "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
+          "url": "https://wallstreetcn.com/livenews/3056169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 09时05分]"
+        },
+        {
           "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
           "url": "https://wallstreetcn.com/livenews/3056121",
           "source": "华尔街见闻-快讯",
@@ -639,6 +678,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时50分]"
+        },
+        {
+          "title": "美股三大指数均小幅收涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "美股大类资产类ETF多数下跌，黄金ETF收跌超3.1%，地产ETF涨超0.9%",
@@ -721,8 +771,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
+          "url": "https://flash.jin10.com/detail/20260218085113078800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
         {
           "title": "谷歌I/O开发者大会将于5月19日至20日举办",
           "url": "https://flash.jin10.com/detail/20260218065832449800",
@@ -730,7 +791,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -848,11 +909,12 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 07时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 09时05分]"
         },
         {
           "title": "金价银价直线跳水",
@@ -878,11 +940,12 @@
           "url": "https://wallstreetcn.com/livenews/3056163",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 09时05分]"
         },
         {
           "title": "美债的信用游戏会崩溃吗",
