@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T19:31:22.930570+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2026-02-18T20:34:19.979930+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -46,6 +46,17 @@
           "time_info": "[00时43分 ~ 06时19分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 20时34分]"
+        },
+        {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
           "url": "https://news.ifeng.com/c/8qpOucjNxj3",
           "source": "凤凰网",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时05分 ~ 16时32分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时31分]"
         },
         {
           "title": "特朗普称希拉里精神错乱",
@@ -296,6 +296,18 @@
           "time_info": "[07时50分 ~ 09时05分]"
         },
         {
+          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
+          "url": "https://wallstreetcn.com/livenews/3056288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时34分]"
+        },
+        {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
           "url": "https://flash.jin10.com/detail/20260218023219855800",
           "source": "金十数据",
@@ -329,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
+          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
@@ -381,7 +404,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -436,18 +459,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
-          "url": "https://wallstreetcn.com/livenews/3056288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -510,7 +522,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -572,8 +584,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时09分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时09分 ~ 20时34分]"
+        },
+        {
+          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
+          "url": "https://wallstreetcn.com/articles/3765814",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时09分 ~ 20时34分]"
         },
         {
           "title": "哈梅内伊：美国无法摧毁伊朗",
@@ -592,18 +616,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时05分 ~ 18时32分]"
-        },
-        {
-          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
-          "url": "https://wallstreetcn.com/articles/3765814",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时09分 ~ 19时31分]"
         },
         {
           "title": "土耳其总统埃尔多安：针对伊朗的新战争对任何人都没有好处。",
@@ -737,6 +749,17 @@
           "time_info": "[03时40分 ~ 04时24分]"
         },
         {
+          "title": "伊朗将迅速落实伊俄全面战略合作计划",
+          "url": "https://www.toutiao.com/trending/7607948856885624895/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
           "url": "https://flash.jin10.com/detail/20260218010446612800",
           "source": "金十数据",
@@ -746,6 +769,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "伊朗总统：决心迅速准确落实伊俄全面战略合作计划",
+          "url": "https://wallstreetcn.com/livenews/3056302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "伊朗演习发言人：伊朗-俄罗斯海军联合演习将在阿曼海域举行。",
@@ -861,7 +895,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -872,8 +906,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时50分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[07时50分 ~ 20时34分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -897,8 +931,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时43分 ~ 19时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时43分 ~ 20时34分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -908,8 +942,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时09分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时09分 ~ 20时34分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -921,6 +955,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时35分 ~ 18时32分]"
+        },
+        {
+          "title": "Analog Devices第一财季营收31.6亿美元，预估31.2亿美元。 第一财季每股收益1.69美元，预估1.61美元。 Analog Devices美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3056309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
@@ -945,6 +990,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时50分]"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 20时34分]"
         },
         {
           "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
@@ -981,18 +1038,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时35分 ~ 18时32分]"
-        },
-        {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时31分]"
         },
         {
           "title": "应用材料美股盘后跌7.6%。",
@@ -1109,7 +1154,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
@@ -1159,6 +1204,18 @@
           "time_info": "[03时40分 ~ 05时24分]"
         },
         {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3056294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时34分]"
+        },
+        {
           "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
           "url": "https://wallstreetcn.com/livenews/3056046",
           "source": "华尔街见闻-快讯",
@@ -1169,17 +1226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时46分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
-          "url": "https://wallstreetcn.com/livenews/3056294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "Alphabet CEO皮查伊：很高兴今天早上与印度总理莫迪会面。我们讨论了谷歌如何帮助他在印度各级推广人工智能，以改善健康、扩大各语言的信息获取、支持初创企业、农业等等。",
@@ -1213,6 +1259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "谷歌计划在美国和印度之间建设新的光纤线路",
+          "url": "https://flash.jin10.com/detail/20260218194454103800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     },
