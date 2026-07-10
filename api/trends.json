@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-10T17:25:20.545005+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-07-10T19:41:02.877004+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 19时41分]"
+        },
         {
           "title": "美军称再次对伊朗发起打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
@@ -19,16 +31,18 @@
           "time_info": "[00时20分 ~ 06时11分]"
         },
         {
-          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
-          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
-          "source": "凤凰网",
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             5,
-            4
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时56分 ~ 19时41分]"
         },
         {
           "title": "伊朗：已发射10枚弹道导弹，打击驻约旦美军基地",
@@ -57,19 +71,6 @@
           "time_info": "[00时20分 ~ 09时31分]"
         },
         {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 17时25分]"
-        },
-        {
           "title": "据伊朗迈赫尔通讯社报道，伊朗南部阿巴斯港当地时间9日晚传出数次爆炸声。（新华社）",
           "url": "https://flash.jin10.com/detail/20260710023830037800",
           "source": "金十数据",
@@ -90,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "卡塔尔与美国和伊朗进行谈判，以缓和局势。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3132032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "美官员称外交努力仍在进行 如有必要将继续打击伊朗",
@@ -238,6 +250,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：我们强烈谴责巴基斯坦西南部发生的恐怖袭击事件，该事件导致多名巴基斯坦公民伤亡。我代表伊朗向遇难者家属、巴基斯坦人民和政府表示深切慰问和诚挚哀悼。",
+          "url": "https://flash.jin10.com/detail/20260710191700501800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "伊朗遭袭系误报，实为防空系统启动",
           "url": "https://flash.jin10.com/detail/20260710034807607800",
           "source": "金十数据",
@@ -280,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "据纽约时报：卡塔尔正与美国和伊朗进行谈判以缓解紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260710191550843800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "美伊紧张局势再度升温，伊朗紧急运出约1100万桶原油",
@@ -421,6 +455,18 @@
           "time_info": "[00时20分 ~ 06时11分]"
         },
         {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 19时41分]"
+        },
+        {
           "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
           "source": "澎湃新闻",
@@ -433,16 +479,17 @@
           "time_info": "[00时20分 ~ 09时31分]"
         },
         {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
           "source": "凤凰网",
           "ranks": [
-            2,
-            6
+            6,
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 17时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 19时41分]"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -489,6 +536,18 @@
           "time_info": "[00时20分 ~ 07时56分]"
         },
         {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 19时41分]"
+        },
+        {
           "title": "美国总统特朗普：（谈及伊朗）我们在很多方面都取得胜利。",
           "url": "https://flash.jin10.com/detail/20260709234930221800",
           "source": "金十数据",
@@ -498,19 +557,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 17时25分]"
         },
         {
           "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
@@ -523,18 +569,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 06时11分]"
-        },
-        {
-          "title": "特朗普“把自己困住了”，陷入两难",
-          "url": "https://news.ifeng.com/c/8uddEUs34xh",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 17时25分]"
         },
         {
           "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
@@ -684,8 +718,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 19时41分]"
+        },
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
           "url": "https://wallstreetcn.com/articles/3776425",
@@ -697,17 +743,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 06时11分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 17时25分]"
         },
         {
           "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
@@ -803,6 +838,28 @@
           "time_info": "[04时31分 ~ 06时11分]"
         },
         {
+          "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
+          "title": "META美股盘前股价涨幅扩大至3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3132028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "据华尔街日报，奈飞正探索推出直播电视及捆绑服务。 该公司高管近期讨论了增加直播频道事宜。 该公司正讨论竞标2030年及2034年世界杯转播权。 奈飞美股盘后跌2%。",
           "url": "https://wallstreetcn.com/livenews/3131557",
           "source": "华尔街见闻-快讯",
@@ -842,7 +899,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -875,9 +932,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "达美航空第二季度调整后营收为176.7亿美元，市场预期为175.3亿美元。 第二季度调整后净利润为10.3亿美元，市场预期为9.852亿美元。 第二季度调整后每股收益为1.56美元，市场预期为1.51美元。 达美航空仍预计全年调整后每股收益为6.50-7.50美元，市场预期为5.95美元。 达美航空美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3131990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "周四（7月9日），美国科技股七巨头（Magnificent 7）指数涨0.55%，报215.34点，盘初走低至210.23点、北京时间22:19开始平滑地持续需上扬。成分股Meta Platforms收涨4.7%，创5月29日以来收盘新高。 “超大”市值科技股指数涨2.15%，报442.37点。 美股存储芯片与硬件供应链指数涨5.11%，报227.13点，大部分时间持稳于232点、02:30开始持续回吐涨幅。 美股超大规模云服务商（Hyperscalers）涨1.24%，报盘93.47点，走势与七巨头指数相仿。 信息科技指数涨3.35%，报426.06点，走势与存储芯片指数类似。 人工智能（AI）赢家指数涨3.14%，报418.79点。 AI软件先驱指数涨1.48%，报112.09点。",
@@ -897,6 +965,19 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 19时41分]"
+        },
+        {
           "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
           "url": "https://flash.jin10.com/detail/20260710040649835800",
           "source": "金十数据",
@@ -906,18 +987,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 17时25分]"
         },
         {
           "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
