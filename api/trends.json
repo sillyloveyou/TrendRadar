@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T07:46:05.994906+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-07-17T09:24:00.177411+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗军方称对美在巴林军事设施发动无人机袭击",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "美军轰炸伊朗桥梁切断补给线，伊朗划下“红线”准备反击",
+          "url": "https://flash.jin10.com/detail/20260717091004486800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "伊朗迈赫尔通讯社发布了一张遭美方袭击的桥梁的图片。",
@@ -36,9 +47,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "据伊朗媒体报道，美军周五早间袭击了阿巴斯港铁路枢纽。",
+          "url": "https://wallstreetcn.com/livenews/3135357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "据华尔街日报：一名美国高级官员表示，美军周四对伊朗境内多座桥梁发动打击，旨在切断通往阿巴斯港及霍尔木兹海峡海军基地的补给路线。伊朗利用该基地袭击船只和投射力量。",
@@ -47,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -58,9 +80,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "美国袭击伊朗港口城市致7死9伤",
+          "url": "https://wallstreetcn.com/livenews/3135355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
@@ -217,6 +250,17 @@
           "time_info": "[04时42分 ~ 05时53分]"
         },
         {
+          "title": "伊朗多地遭袭击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%9C%B0%E9%81%AD%E8%A2%AD%E5%87%BB%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
           "title": "白宫：将继续关注伊朗进展。",
           "url": "https://flash.jin10.com/detail/20260717014751329800",
           "source": "金十数据",
@@ -245,7 +289,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -388,7 +432,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -476,9 +520,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "美军被曝搁置伊朗小学遇袭事件调查",
+          "url": "https://wallstreetcn.com/livenews/3135342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。",
@@ -498,7 +553,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -542,7 +597,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -556,12 +611,329 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "据伊朗新闻电视台：美国对班达哈米尔地区道路和桥梁的攻击造成七人死亡，九人受伤。",
+          "url": "https://flash.jin10.com/detail/20260717085710361800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
+          "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 09时24分]"
+        },
+        {
+          "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
+          "url": "https://news.ifeng.com/c/8uofMrB5Gdq",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 09时24分]"
+        },
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260717015332023800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "美国总统特朗普：很快就会看到我们在伊朗取得胜利的成果。",
+          "url": "https://flash.jin10.com/detail/20260717090854707800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "美国总统特朗普：立即解密有关选举的情报。",
+          "url": "https://flash.jin10.com/detail/20260717090843511800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "美国总统特朗普：我们拥有世界上最强大的军队。美国在伊朗问题上占据上风。",
+          "url": "https://flash.jin10.com/detail/20260717090653215800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "特朗普：很快就会看到在伊朗的成果。",
+          "url": "https://wallstreetcn.com/livenews/3135354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
+          "url": "https://wallstreetcn.com/livenews/3135237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 04时42分]"
+        },
+        {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "白宫：特朗普总统始终愿意进行外交谈判。",
+          "url": "https://flash.jin10.com/detail/20260717014747492800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "美国总统特朗普：美国边境变得更加安全。",
+          "url": "https://flash.jin10.com/detail/20260717090559742800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：白宫提词器操作员被停职。 美国总统特朗普认为，被控参与下注的提词器操作员“行为可耻”。",
+          "url": "https://wallstreetcn.com/livenews/3135212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "美国总统特朗普向全国发表讲话。特朗普宣扬通胀下降和股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3135352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "白宫：特朗普总统与副总统万斯在伊朗冲突问题上意见一致。",
+          "url": "https://flash.jin10.com/detail/20260717014735582800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们的投资规模创历史新高，股市表现也处于最佳状态。",
+          "url": "https://flash.jin10.com/detail/20260717090517561800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "白宫：（关于以色列内部有人试图让战争无限持续）特朗普总统认同外国势力会试图影响美国公众舆论，这是一个客观事实。",
+          "url": "https://flash.jin10.com/detail/20260717014701100800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "美国总统特朗普：美国通胀创六年来最大降幅。",
+          "url": "https://flash.jin10.com/detail/20260717090454225800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "白宫：特朗普总统不会允许伊朗在霍尔木兹海峡发动袭击而不付出代价。美国可以在任何时间、任何地点打击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260717014539254800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们目前在美国的投资规模是有史以来最大的。",
+          "url": "https://flash.jin10.com/detail/20260717090442505800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普今晚将谈论选举诚信。 重申（特朗普）对沃尔玛的赞赏。 特朗普将前往世界杯决赛现场。",
+          "url": "https://wallstreetcn.com/livenews/3135209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们的国家比以往任何时候都更安全。",
+          "url": "https://flash.jin10.com/detail/20260717090429637800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "美国总统特朗普：我们现在是世界上最棒的国家。",
+          "url": "https://flash.jin10.com/detail/20260717090356263800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "美国总统特朗普准备在（今天稍早的）演讲中谈论委内瑞拉大选。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3135274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "报道：特朗普帖文花钱就能抢先看",
+          "url": "https://wallstreetcn.com/livenews/3135311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "据CBS：美国总统特朗普将于当地时间7月22日访问亚特兰大都会区一所高中，推广新的“特朗普账户”投资计划。",
+          "url": "https://flash.jin10.com/detail/20260717024018004800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：提词器操作员在预测平台Kalshi上就特朗普的发言内容下注，CFTC正在调查。",
+          "url": "https://wallstreetcn.com/livenews/3135177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -569,17 +941,6 @@
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时53分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -594,8 +955,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时46分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 09时24分]"
+        },
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时53分]"
+        },
+        {
+          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
+          "url": "https://www.cls.cn/detail/2428956",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 09时24分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指跌超1%，中概再度逆市收涨，黄金跌破4000关口",
@@ -609,15 +992,15 @@
           "time_info": "[07时45分 ~ 07时46分]"
         },
         {
-          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
-          "url": "https://www.cls.cn/detail/2428956",
-          "source": "财联社热门",
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时45分 ~ 07时46分]"
+          "time_info": "[09时23分 ~ 09时24分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）热门中概股行情一览（美股盘中）",
@@ -667,6 +1050,28 @@
           "time_info": "[04时42分 ~ 05时53分]"
         },
         {
+          "title": "巴菲特怒斥美股投机狂热",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%80%92%E6%96%A5%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E7%8B%82%E7%83%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "美股芯片股深夜大跌",
+          "url": "https://www.toutiao.com/trending/7663271539885739558/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
           "title": "奈飞二季度营收125.6亿美元，分析师预期125.8亿美元。 二季度每股收益（EPS）为0.80美元，分析师预期0.79美元。 预计全年营收510亿-514亿美元，公司原本预计507亿-517亿美元。 预计三季度营收128.6亿美元，分析师预期130亿美元。 预计三季度EPS为0.82美元，分析师预期0.84美元。 “我们观看了啥”（What we Watched）的发布频率将从半年一次降低至一年一次。 奈飞美股盘后跌3%。",
           "url": "https://wallstreetcn.com/livenews/3135263",
           "source": "华尔街见闻-快讯",
@@ -677,6 +1082,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时53分]"
+        },
+        {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）热门中概股行情一览（美股收盘）",
@@ -740,15 +1156,37 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "美股期货走低，标普500指数期货跌0.3%，纳斯达克100指数期货跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3135338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "美股半导体重挫传导亚洲，亚洲科技链为何集体失血？",
+          "url": "https://flash.jin10.com/detail/20260717085429155800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -772,6 +1210,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 04时42分]"
+        },
+        {
+          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
+          "url": "https://www.cls.cn/detail/2428944",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
         },
         {
           "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
@@ -921,168 +1370,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
-          "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时46分]"
-        },
-        {
-          "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
-          "url": "https://news.ifeng.com/c/8uofMrB5Gdq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 07时46分]"
-        },
-        {
-          "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260717015332023800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
-          "url": "https://wallstreetcn.com/livenews/3135237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 04时42分]"
-        },
-        {
-          "title": "白宫：特朗普总统始终愿意进行外交谈判。",
-          "url": "https://flash.jin10.com/detail/20260717014747492800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：白宫提词器操作员被停职。 美国总统特朗普认为，被控参与下注的提词器操作员“行为可耻”。",
-          "url": "https://wallstreetcn.com/livenews/3135212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "白宫：特朗普总统与副总统万斯在伊朗冲突问题上意见一致。",
-          "url": "https://flash.jin10.com/detail/20260717014735582800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "白宫：（关于以色列内部有人试图让战争无限持续）特朗普总统认同外国势力会试图影响美国公众舆论，这是一个客观事实。",
-          "url": "https://flash.jin10.com/detail/20260717014701100800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "白宫：特朗普总统不会允许伊朗在霍尔木兹海峡发动袭击而不付出代价。美国可以在任何时间、任何地点打击伊朗。",
-          "url": "https://flash.jin10.com/detail/20260717014539254800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普今晚将谈论选举诚信。 重申（特朗普）对沃尔玛的赞赏。 特朗普将前往世界杯决赛现场。",
-          "url": "https://wallstreetcn.com/livenews/3135209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "美国总统特朗普准备在（今天稍早的）演讲中谈论委内瑞拉大选。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3135274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "报道：特朗普帖文花钱就能抢先看",
-          "url": "https://wallstreetcn.com/livenews/3135311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "据CBS：美国总统特朗普将于当地时间7月22日访问亚特兰大都会区一所高中，推广新的“特朗普账户”投资计划。",
-          "url": "https://flash.jin10.com/detail/20260717024018004800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：提词器操作员在预测平台Kalshi上就特朗普的发言内容下注，CFTC正在调查。",
-          "url": "https://wallstreetcn.com/livenews/3135177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1132,11 +1419,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时46分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 09时24分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -1164,7 +1452,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -1190,11 +1478,12 @@
           "url": "https://www.cls.cn/detail/2428987",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 07时46分]"
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 09时24分]"
         }
       ]
     }
