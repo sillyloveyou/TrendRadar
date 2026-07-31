@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T16:28:26.082537+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-07-31T19:16:17.721219+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗称摧毁3架F-35战机，美军回应",
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 16时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 19时16分]"
         },
         {
           "title": "伊朗对科威特境内美空军基地实施无人机打击",
@@ -150,8 +150,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 16时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 19时16分]"
+        },
+        {
+          "title": "伊朗首都德黑兰北部发生4.6级地震。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3143187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗军队表示，武装力量的连番打击已对（巴林）该基地敌军的作战与后勤能力造成重创。",
@@ -242,6 +253,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "科威特方面称，伊朗的袭击造成了重要军事设施损毁。",
+          "url": "https://flash.jin10.com/detail/20260731183843071800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "伊朗谴责美军袭击格什姆岛居民区致3人死亡",
           "url": "https://wallstreetcn.com/livenews/3142649",
           "source": "华尔街见闻-快讯",
@@ -278,7 +300,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
@@ -319,13 +341,37 @@
           "time_info": "04时10分"
         },
         {
+          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
+          "url": "https://www.cls.cn/detail/2442218",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 19时16分]"
+        },
+        {
+          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美股盘前，亚马逊(AMZN.O)上涨11%，Q2云业务营收超预期。苹果(AAPL.O)跌6.7%，Q4营收指引不及预期。SK海力士(SKHY.O)美股盘前上涨7%。",
           "url": "https://flash.jin10.com/detail/20260731160146428800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -340,18 +386,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时51分]"
-        },
-        {
-          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
-          "url": "https://www.cls.cn/detail/2442218",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 16时28分]"
         },
         {
           "title": "美股收盘：满屏都是两位数涨幅",
@@ -390,6 +424,18 @@
           "time_info": "[05时56分 ~ 06时55分]"
         },
         {
+          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
+          "url": "https://www.zhihu.com/question/2066288437683032785",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时16分]"
+        },
+        {
           "title": "美股收盘：微软创近18年最大单日涨幅",
           "url": "https://www.toutiao.com/trending/7668063651911909418/",
           "source": "今日头条",
@@ -418,7 +464,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -434,15 +480,26 @@
           "time_info": "06时55分"
         },
         {
-          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-          "url": "https://www.zhihu.com/question/2066288437683032785",
-          "source": "知乎",
+          "title": "埃克森美孚第二季度收入及其他收益1,160.2亿美元，预估1,031亿美元。 第二季度调整后每股收益3.52美元，预估3.54美元。 埃克森美孚美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3143179",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "19时16分"
+        },
+        {
+          "title": "雪佛龙二季度营收及其他收入700.6亿美元，预估679.3亿美元。 二季度调整后每股收益6.06美元，预估5.65美元。 雪佛龙预计全年资本支出位于180亿至190亿美元区间的低端，此前预期为180亿至190亿美元。 雪佛龙美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3143166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
@@ -492,7 +549,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -552,15 +609,27 @@
           "time_info": "02时08分"
         },
         {
+          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
+          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
           "url": "https://www.cls.cn/detail/2442363",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时16分]"
         },
         {
           "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
@@ -581,11 +650,12 @@
           "ranks": [
             17,
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 19时16分]"
         },
         {
           "title": "特朗普宣布哈马斯同意全面解除武装，以色列将撤军",
@@ -612,6 +682,18 @@
           "time_info": "[06时55分 ~ 07时51分]"
         },
         {
+          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
+          "url": "https://www.cls.cn/detail/2442307",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时16分]"
+        },
+        {
           "title": "美国总统特朗普：和平委员会达成历史性协议，全面解除哈马斯及加沙所有其他武装团体的武装。",
           "url": "https://flash.jin10.com/detail/20260731062552220800",
           "source": "金十数据",
@@ -633,17 +715,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
-        },
-        {
-          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
-          "url": "https://www.cls.cn/detail/2442307",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "特朗普将于美东时间周五上午11点在戴维营主持召开内阁会议。",
@@ -811,6 +882,80 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2066521165246489298",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时16分]"
+        },
+        {
+          "title": "DeepSeek-V4-Flash 正式版API上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时16分]"
+        },
+        {
+          "title": "DeepSeekV4Flash正式版上线",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时16分]"
+        },
+        {
+          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "DeepSeek V4 Flash正式版强在哪",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "DeepSeek-V4-Flash正式版上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek-V4-Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -895,8 +1040,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时51分 ~ 16时28分]"
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 19时16分]"
         },
         {
           "title": "美通胀降温叠加微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水",
@@ -945,45 +1090,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek-V4-Flash 正式版API上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2066521165246489298",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "DeepSeekV4Flash正式版上线",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -994,7 +1100,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
