@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T07:24:28.569254+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-08-11T08:46:01.168301+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 08时46分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -39,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 08时46分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -59,11 +60,23 @@
           "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
           "source": "凤凰网",
           "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时29分 ~ 08时46分]"
+        },
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时24分]"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -89,17 +102,6 @@
           "time_info": "[00时40分 ~ 04时29分]"
         },
         {
-          "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
-          "url": "https://flash.jin10.com/detail/20260811071100479800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
           "title": "特朗普政府撤销超17.5万份外国人签证",
           "url": "https://flash.jin10.com/detail/20260811021754743800",
           "source": "金十数据",
@@ -121,6 +123,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 03时46分]"
+        },
+        {
+          "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
+          "url": "https://flash.jin10.com/detail/20260811071100479800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 08时46分]"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
@@ -158,6 +172,39 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
+          "url": "https://www.cls.cn/detail/2450675",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
           "title": "美国总统特朗普宣布“美国疫苗推荐”。 特朗普声称：政府仅认可 11 种核心疫苗的儿童接种建议。 不再建议所有儿童接种乙肝、新冠、流感等疫苗。",
           "url": "https://wallstreetcn.com/livenews/3147654",
           "source": "华尔街见闻-快讯",
@@ -168,6 +215,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3147719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 08时46分]"
         },
         {
           "title": "美国总统特朗普：不再建议所有儿童接种乙型肝炎、COVID-19和流感等疫苗。",
@@ -302,17 +361,6 @@
           "time_info": "02时40分"
         },
         {
-          "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3147719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
           "title": "美国总统特朗普：自沃什获得任命以来，我只与他通过一次电话。（否认华尔街日报报道称双方频繁通话）",
           "url": "https://flash.jin10.com/detail/20260811033805170800",
           "source": "金十数据",
@@ -379,6 +427,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "特朗普自曝与美联储主席“通过话”，但强调“就一次”",
+          "url": "https://flash.jin10.com/detail/20260811073104520800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
           "title": "特朗普：将赔偿问题纳入未来的谈判",
           "url": "https://wallstreetcn.com/livenews/3147619",
           "source": "华尔街见闻-快讯",
@@ -437,7 +496,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -466,11 +525,45 @@
           "url": "https://news.ifeng.com/c/8vUUCRouqKj",
           "source": "凤凰网",
           "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 08时46分]"
+        },
+        {
+          "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
+          "url": "https://v.ifeng.com/c/8vU8lHyEo4N",
+          "source": "凤凰网",
+          "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "伊朗最高领袖任命6人担任高级军官",
+          "url": "https://news.ifeng.com/c/8vUC8C2pHLn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
+          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
         },
         {
           "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
@@ -733,7 +826,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -745,6 +838,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 04时29分]"
+        },
+        {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时24分 ~ 08时46分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -759,16 +865,27 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
           "source": "财联社热门",
           "ranks": [
             8,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时24分 ~ 07时24分]"
+          "time_info": "[07时24分 ~ 08时46分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
@@ -805,17 +922,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 06时25分]"
-        },
-        {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
         },
         {
           "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
@@ -857,7 +963,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -1038,6 +1144,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
+          "url": "https://wallstreetcn.com/livenews/3147721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 08时46分]"
+        },
+        {
           "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
           "url": "https://wallstreetcn.com/livenews/3147629",
           "source": "华尔街见闻-快讯",
@@ -1047,17 +1165,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
-          "url": "https://wallstreetcn.com/livenews/3147721",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2067921583944085650",
+          "source": "知乎",
           "ranks": [
-            12
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
         }
       ]
     },
